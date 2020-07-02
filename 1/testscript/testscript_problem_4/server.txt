@@ -1,0 +1,20 @@
+youngzt@ubuntu ~/o/problem-4> ./server
+Server initialing...
+input "close" to close the server
+Here is the message from client-1: Today is really hard, i'm go to rest!
+
+Here is the message from client-2: Operating system is really not easy!
+
+Here is the message from client-1: :q
+
+client-1 terminated!
+Here is the message from client-3: We only need 3-step to put an elephant into the fridge...
+
+Here is the message from client-3: 1: Open the door;
+
+Here is the message from client-3: 2: put the elephant into fridge;
+
+Here is the message from client-3: 3: Close the door!
+
+Here is the message from client-3: The same is learning operating system
+

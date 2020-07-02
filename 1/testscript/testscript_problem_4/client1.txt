@@ -1,0 +1,16 @@
+youngzt@ubuntu ~/o/problem-4> ./client
+Please enter the message: 
+Today is really hard, i'm go to rest!
+From server: Wrgdb lv uhdoob kdug, l'p jr wr uhvw!
+
+:q
+you terminated client!
+client closing...
+youngzt@ubuntu ~/o/problem-4> ./client
+Please enter the message: 
+I'm back...may I say something?
+From server: Please wait!
+
+
+
+

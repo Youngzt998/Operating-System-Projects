@@ -1,0 +1,19 @@
+youngzt@ubuntu ~/o/problem-4> ./client
+Please enter the message: 
+May i say somthing?
+From server: Please wait!
+We only need 3-step to put an elephant into the fridge...
+From server: Zh rqob qhhg 3-vwhs wr sxw dq hohskdqw lqwr wkh iulgjh...
+
+1: Open the door;
+From server: 1: Rshq wkh grru;
+
+2: put the elephant into fridge;
+From server: 2: sxw wkh hohskdqw lqwr iulgjh;
+
+3: Close the door!
+From server: 3: Forvh wkh grru!
+
+The same is learning operating system
+From server: Wkh vdph lv ohduqlqj rshudwlqj vbvwhp
+

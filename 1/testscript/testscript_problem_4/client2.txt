@@ -1,0 +1,5 @@
+youngzt@ubuntu ~/o/problem-4> ./client
+Please enter the message: 
+Operating system is really not easy!
+From server: Rshudwlqj vbvwhp lv uhdoob qrw hdvb!
+
